@@ -1,1 +1,1 @@
-mod "saz-ssh"
+mod 'saz/ssh'
